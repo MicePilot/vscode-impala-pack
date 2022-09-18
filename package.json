@@ -1,0 +1,42 @@
+{
+  "name": "extension-pack-for-impala",
+  "displayName": "Extension Pack for Impala",
+  "description": "Developed for IMPALA, including Java, C++, and git plugins",
+  "license": "MIT",
+  "version": "0.0.1",
+  "icon": "logo.png", 
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "keywords": [
+    "java",
+    "debugger",
+    "C",
+    "C++",
+    "maven",
+    "impala"
+  ],
+  "categories": [
+    "Programming Languages",
+    "Debuggers",
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MicePilot/vscode-impala-pack.git"
+  },
+  "extensionPack": [
+    "clarkyu.vscode-sql-beautify", 
+    "eamodio.gitlens", 
+    "GabrielBB.vscode-lombok", 
+    "llvm-vs-code-extensions.vscode-clangd", 
+    "redhat.java", 
+    "vscjava.vscode-java-test", 
+    "vscjava.vscode-java-dependency", 
+    "vscjava.vscode-maven", 
+    "vscjava.vscode-java-debug", 
+    "twxs.cmake", 
+    "vadimcn.vscode-lldb", 
+    "Remisa.shellman"
+  ]
+}
