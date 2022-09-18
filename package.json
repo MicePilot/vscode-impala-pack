@@ -5,6 +5,7 @@
   "license": "MIT",
   "version": "0.0.1",
   "icon": "logo.png", 
+  "publisher": "StreakXIN", 
   "engines": {
     "vscode": "^1.71.0"
   },
