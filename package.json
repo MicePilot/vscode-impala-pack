@@ -3,11 +3,11 @@
   "displayName": "Extension Pack for Impala",
   "description": "Developed for IMPALA, including Java, C++, and git plugins",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "logo.png", 
   "publisher": "StreakXIN", 
   "engines": {
-    "vscode": "^1.71.0"
+    "vscode": "^1.62.0"
   },
   "keywords": [
     "java",

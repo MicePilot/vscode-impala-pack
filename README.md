@@ -37,4 +37,6 @@ By installing Extension Pack for Impala, the following extensions are installed:
 
 * [vscode-impala-pack](https://github.com/MicePilot/vscode-impala-pack)
 
+* [How to use](https://github.com/MicePilot/vscode-impala-pack/wiki)
+
 **Enjoy!**
